@@ -1,6 +1,6 @@
 # Paweł Ozga
 
-I’m a hands-on engineer and former CTO. I like working with small teams, getting to the bottom of a user problem, and shipping the simplest thing that solves it. Lately I’ve been building tools to make AI agents easier to test and run.
+I like working with small teams, getting to the bottom of a user problem, and shipping the simplest thing that solves it. Lately I’ve been building tools to make AI agents easier to test and run.
 
 ## Selected work
 
